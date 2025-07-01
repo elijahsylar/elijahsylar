@@ -150,7 +150,6 @@ Built in 2 weeks - demonstrating rapid AI development and deployment capabilitie
 
 **Industries**: AI/ML Companies | Healthcare Tech | Creative Tech | Startups | Research Labs
 
-### 🌟 Why Hire Me?
 
 - **Unique Perspective**: 13+ years behavioral analysis + cutting-edge AI
 - **Fast Shipping**: Built production AI in 2 weeks while working full-time
