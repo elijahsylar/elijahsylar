@@ -65,7 +65,7 @@ I'm a Full Stack Developer and AI Engineer with 13+ years of Applied Behavior An
 
 ### 🎨 Featured Project: Aurora - Autonomous AI Artist | Generative AI | Creative AI
 
-**[🔴 Watch Aurora Live 24/7 - Autonomous AI Creating Art](https://youtube.com/@elijahsylar/streams)**
+**[🔴 Read more about Aurora here --> ](https://elijahsylar.github.io/aurora_ai/)**
 
 Aurora is an autonomous AI system and generative AI platform I built that:
 - **Autonomous AI**: Creates art autonomously for 12+ hour sessions
