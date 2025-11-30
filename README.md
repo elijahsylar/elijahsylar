@@ -114,7 +114,7 @@ Building tools that inspire rather than replace
 
 ## 🌐 Connect
 
-- 🎨 **Portfolio:** [elijahsylar.github.io](https://elijahsylar.github.io)
+- 🎨 **Portfolio:** [elijahsylar.com(https://elijahsylar.com)
 - 💼 **LinkedIn:** [linkedin.com/in/elijahsylar](https://linkedin.com/in/elijahsylar)
 - 📧 **Email:** elijah.s.camp@gmail.com
 
