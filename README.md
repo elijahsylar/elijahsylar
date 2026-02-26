@@ -8,7 +8,7 @@
 
 ## 🎯 What I Do
 
-I build production systems that work for real people—especially those with complex needs. That comes from 7 years as a certified behavior analyst working with nonverbal autistic children, 18+ months running a production library system serving 200+ users, and now: designing the intersection of healthcare tech, responsible AI, and accessibility.
+I build production systems that work for real people, especially those with complex needs. That comes from 7 years as a certified behavior analyst working with nonverbal autistic children, 18+ months running a production library system serving 200+ users, and now: designing the intersection of healthcare tech, responsible AI, and accessibility.
 
 **Current:** CS degree at CU Denver (graduating May 2026) + active research in emergent AI behavior + 30-year visual artist
 
@@ -37,7 +37,7 @@ I build production systems that work for real people—especially those with com
 - Deep WCAG expertise from production work (not certified, but *practiced*)
 - AAC/assistive technology background translates to accessible design
 - Built systems for users ranging from power users to those needing significant help
-- Accessibility isn't an afterthought—it's how I design
+- Accessibility isn't an afterthought. It's how I design
 
 ### AI Research & Implementation
 - **Aurora**: Autonomous AI artist system investigating emergent creativity
@@ -64,7 +64,7 @@ I build production systems that work for real people—especially those with com
 
 ## 🔬 Featured Research: Aurora
 
-**Aurora** is an autonomous AI artist exploring creative behavior through behavioral learning—without explicit reward shaping.
+**Aurora** is an autonomous AI artist exploring creative behavior through behavioral learning, without explicit reward shaping.
 
 [Full Research Documentation →](https://elijahsylar.github.io/aurora_ai/)
 
@@ -152,7 +152,7 @@ Graduating May 2026 | 3.2 GPA | Active research student
 - Healthcare systems (HIPAA, EHR integration)
 - Accessibility (WCAG, AAC, assistive tech)
 - Database architecture (schema design, optimization, production support)
-- AI implementation (not research papers—actual running systems)
+- AI implementation (not research papers, actual running systems)
 
 -----
 
@@ -165,7 +165,7 @@ Graduating May 2026 | 3.2 GPA | Active research student
 **You** built a running AI system that learns across 300+ sessions.
 
 **Most developers** make accessible features as an afterthought.  
-**You** have 4 years of professional accessibility experience—you know what it means to build for people who actually need it.
+**You** have 4 years of professional accessibility experience. You know what it means to build for people who actually need it.
 
 **Most CS students** build projects in isolation.  
 **You** maintained production systems serving 200+ real users.
