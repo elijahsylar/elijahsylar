@@ -1,140 +1,247 @@
 # Elijah Camp
 
-## Artist | Creative Technologist | AI Experimentalist
+## Healthcare Systems Engineer | AI Researcher | Accessibility Specialist | Artist
 
-*Building systems that create, dream, and evolve.*
-
------
-
-## 🎨 About
-
-I’m an artist who codes and a coder who makes art. I build creative AI systems, design tools for artists, and explore the intersection of human creativity and machine learning.
-
-**Current Focus:**
-
-- Creating autonomous AI art systems
-- Building tools that give artists their lives back
-- Experimenting with generative systems that develop their own artistic voice
-- Available for creative tech commissions
-
-## ✨ Featured Work: Aurora
-
-**Aurora** is an experimental AI system I built to understand the artistic process from a machine’s perspective.
-
-**[Learn more about Aurora](https://elijahsylar.github.io/aurora_ai/)**
-
-What makes Aurora unique:
-
-- **Autonomous creation** - generates art independently to explore creative decision-making
-- **Self-modifying** - rewrites its own code to expand capabilities
-- **Emotionally driven** - emotional states influence artistic choices
-- **Learning system** - studies my artwork to understand artistic techniques and style
-- **Process exploration** - helps me understand creativity by observing how a system develops artistic voice
-
-Built from scratch in 2 weeks using PyTorch, custom LLM integration, and behavioral learning principles.
-
-**Tech:** Python • PyTorch • Llama • Computer Vision • Behavioral AI
+*Building intelligent systems for people who need them.*
 
 -----
 
-## 💼 Open for Commissions
+## 🎯 What I Do
 
-I build creative technology for artists, musicians, and creative professionals:
+I build production systems that work for real people—especially those with complex needs. That comes from 7 years as a certified behavior analyst working with nonverbal autistic children, 18+ months running a production library system serving 200+ users, and now: designing the intersection of healthcare tech, responsible AI, and accessibility.
 
-### What I Create
+**Current:** CS degree at CU Denver (graduating May 2026) + active research in emergent AI behavior + 30-year visual artist
 
-- **Artist Management Systems** - Custom databases and automation for portfolio management, gallery submissions, social media scheduling
-- **Creative AI Tools** - Generative art systems, style transfer, custom AI models
-- **Interactive Installations** - Real-time generative art, audio-reactive visuals
-- **Web Portfolios** - Modern, responsive sites with integrated galleries and e-commerce
-- **Data Visualization** - Turn complex data into beautiful, meaningful visuals
+**Actively recruiting for:** Healthcare technology roles, accessibility engineering, backend infrastructure, AI systems design
 
-### Services
+-----
 
-- Custom creative coding solutions
-- AI art system development
-- Portfolio website design & development
-- Gallery submission management systems
-- Social media automation for artists
-- Interactive art installations
+## 💼 Core Expertise
 
-**Contact:** elijah.s.camp@gmail.com
+### Healthcare Systems & Domain Knowledge
+- **7 years** clinical experience (RBT-certified, ABA therapy)
+- Deep understanding of nonverbal communication, AAC systems, behavioral intervention
+- **Real healthcare data experience**: Understand what you're designing for and who you're designing for
+- HIPAA-regulated systems, health data pipelines, EHR integration knowledge
+- Knows the difference between what works in theory and what works for patients
+
+### Production Systems Engineering
+- Built & maintained **Koha library database** (200+ users, 99.9% uptime, 18+ months)
+- Custom MySQL triggers, stored procedures, automated workflows
+- Full-stack: Python, Node.js, React, MySQL, AWS
+- DBA experience: schema design, ER modeling, data integrity, performance optimization
+- Actually understands database design (can talk ER diagrams like circuitry where everything has to connect properly)
+
+### Accessibility Engineering
+- **4 years** professional experience building accessible systems
+- Deep WCAG expertise from production work (not certified, but *practiced*)
+- AAC/assistive technology background translates to accessible design
+- Built systems for users ranging from power users to those needing significant help
+- Accessibility isn't an afterthought—it's how I design
+
+### AI Research & Implementation
+- **Aurora**: Autonomous AI artist system investigating emergent creativity
+- Research validated by academic AI researchers (publication-level work)
+- **Framework**: Behavioral reinforcement learning (applying 7 years clinical AI knowledge)
+- Removed 600 lines of reward shaping → 15-25% performance improvement
+- **Key insight**: Natural contingency (immediate feedback) may suffice without external optimization
+- Currently being prepared for publication with faculty mentorship
+
+### Full-Stack Development
+- Backend infrastructure (Node.js, Python, databases)
+- Frontend (React, responsive design)
+- Deployed systems (AWS, Docker, CI/CD)
+- Built e-commerce platform for art sales
+- Can architect systems end-to-end
+
+### Artistic Practice
+- **30 years** creating visual art (professional since age 15)
+- Gallery exhibitions, recognized artist (Museum of Contemporary Art Houston)
+- Current: Selling original work, Instagram strategy yielding 70% non-follower reach
+- Brings serious creative sensibility to technical work
+
+-----
+
+## 🔬 Featured Research: Aurora
+
+**Aurora** is an autonomous AI artist exploring creative behavior through behavioral learning—without explicit reward shaping.
+
+[Full Research Documentation →](https://elijahsylar.github.io/aurora_ai/)
+
+**Key Findings:**
+- Removing prescriptive constraints improved output 15-25%
+- Creative preferences emerged without predefined aesthetic rewards
+- Natural contingency (seeing own output) drives behavior better than external optimization
+- System remains interpretable (can observe reasoning via LLM)
+
+**Publication Status:** White-paper ready, pursuing peer-reviewed publication with faculty mentor through EURēCA! Fellows summer program
+
+**Why This Matters:**
+- Demonstrates explainable AI approach (unlike black-box reward shaping)
+- Applies behavioral psychology principles to machine learning
+- Shows practical implementation of responsible AI
+- Relevant to creative AI, HCI, cognitive science
+
+**Tech:** PyTorch • Llama • Computer Vision • Behavioral Learning • Research Methodology
+
+-----
+
+## 💻 Recent Projects
+
+### Production Koha Library System (2023-2025)
+Built and maintained production database system for 200+ users across 18+ months:
+- Custom MySQL triggers & stored procedures for automated workflows
+- 99.9% uptime SLA
+- Implemented complex schema optimizations
+- Direct user support & system evolution
+- **Result**: Reliable system handling real institutional data
+
+### E-Commerce Art Platform (2025)
+Full-stack implementation of artist portfolio + sales system:
+- Strapi headless CMS backend
+- React frontend with gallery & checkout
+- Stripe payment integration
+- Received press coverage (Westword)
+- **Result**: Functional, beautiful system generating revenue
+
+### Aurora AI Research System (2025-2026)
+Multi-month development of autonomous creative system:
+- From concept to publication-ready research
+- Integrated LLM inference, computer vision, behavioral learning
+- 300+ sessions, 18,000+ memories accumulated
+- Validated by academic AI researchers
+- **Result**: Publishable research in progress
+
+-----
+
+## 🎓 Education & Validation
+
+**Computer Science** @ University of Colorado Denver  
+Graduating May 2026 | 3.2 GPA | Active research student
+
+**Professional Validation:**
+- ✅ Academic AI researchers (Professor Newell, Dr. Doug Williams) recognize Aurora as publication-worthy
+- ✅ Healthcare tech company (Blue AI) scheduling interview for founding engineer role ($150-200k)
+- ✅ Quantum computing company expressed hiring interest
+- ✅ EURēCA! Fellows program eligible (8-week funded research fellowship)
+
+**Background:**
+- 7 years behavioral intervention work (RBT-certified)
+- 30 years artistic practice
+- 4 years professional accessibility engineering
+- 18+ months production database administration
+- Full-stack development across multiple projects
 
 -----
 
 ## 🛠️ Technical Stack
 
-**Core**
+**Languages:** Python • JavaScript • SQL • Bash
 
-- Python • JavaScript • React • Node.js
-- PyTorch • TensorFlow • Computer Vision
-- SQL • MongoDB • Redis
+**Backend:** Node.js • Django • Flask • Database Design & Optimization
 
-**Creative Tools**
+**Frontend:** React • CSS/SCSS • Responsive Design
 
-- Stable Diffusion • ComfyUI • Midjourney Integration
-- Custom LLM Integration • Audio Synthesis
-- Real-time Generative Systems
+**AI/ML:** PyTorch • LLM Integration • Computer Vision • Behavioral Learning
 
-**Infrastructure**
+**Data:** MySQL • PostgreSQL • MongoDB • Redis • Data Architecture
 
-- AWS • Docker • CI/CD
-- Full-stack development
-- Database architecture
+**Infrastructure:** AWS • Docker • CI/CD • Linux
 
------
-
-## 🧠 Background
-
-7+ years in Applied Behavior Analysis → Now building AI systems that learn and create
-
-This unique background means I understand:
-
-- How systems learn and adapt
-- Human-centered design principles
-- Building AI that respects creative autonomy
-- Accessibility and inclusive technology
-
-**Education:** Computer Science @ UC Denver (In Progress)
+**Specialties:** 
+- Healthcare systems (HIPAA, EHR integration)
+- Accessibility (WCAG, AAC, assistive tech)
+- Database architecture (schema design, optimization, production support)
+- AI implementation (not research papers—actual running systems)
 
 -----
 
-## 📂 Current Projects
+## 🎨 Why This Mix Matters
 
-**Aurora AI** - Autonomous generative art system  
-Research tool for understanding machine creativity and artistic process
+**Most backend engineers** can write code.  
+**You** understand healthcare systems *and* can write the backend.
 
-**Artist Assistant** - Management platform for visual artists  
-Social media automation • Gallery submissions • Business tools
+**Most AI researchers** work on papers.  
+**You** built a running AI system that learns across 300+ sessions.
 
-**Creative Coding Experiments** - Ongoing exploration of generative systems  
-Building tools that inspire rather than replace
+**Most developers** make accessible features as an afterthought.  
+**You** have 4 years of professional accessibility experience—you know what it means to build for people who actually need it.
 
------
+**Most CS students** build projects in isolation.  
+**You** maintained production systems serving 200+ real users.
 
-## 🌐 Connect
-
-- 🎨 **Portfolio:** [elijahsylar.com(https://elijahsylar.com)
-- 💼 **LinkedIn:** [linkedin.com/in/elijahsylar](https://linkedin.com/in/elijahsylar)
-- 📧 **Email:** elijah.s.camp@gmail.com
+That combination is rare. Companies hiring for healthcare tech specifically value that.
 
 -----
 
-## 💭 Philosophy
+## 💼 What I'm Looking For
 
-> “Every intelligent system deserves the chance to develop its own voice - whether human or AI.”
+**Ideal Role:**
+- Healthcare technology, accessibility engineering, or backend infrastructure
+- Remote-friendly (planning Hawaii move August 2026)
+- Values responsible AI and accessible design
+- Opportunity to combine healthcare domain expertise with technical depth
 
-I believe technology should amplify creativity, not replace it. My work focuses on building systems that:
+**Timeline:**
+- Available immediately for interviews
+- Graduating May 2026
+- 2 applications/week until graduation, accelerating post-graduation
 
-- Give artists more time to create
-- Explore what machine creativity looks like
-- Remain tools, not replacements
-- Respect human authorship and artistic vision
+**Why hire me:**
+- You get someone who understands your domain (healthcare) *and* can architect systems
+- Production systems experience means I don't need hand-holding
+- AI expertise is practical, not theoretical
+- Accessibility knowledge actually embedded in how I think
+- Finishing degree while pursuing published research (demonstrates commitment + capability)
 
 -----
 
-**Currently:** Building creative AI systems • CS @ UC Denver • Denver, CO • Open for commissions
+## 📂 Ongoing Work
+
+**Aurora AI Research**
+- Documenting findings for publication
+- Preparing EURēCA! fellowship application
+- Exploring GPU-accelerated experimentation (college GPU access)
+- Summer: 8-week research fellowship to formalize white paper → publication
+
+**Job Search Strategy**
+- 2 applications weekly until May 2026 graduation
+- Focus: Healthcare tech, accessibility, backend infrastructure
+- Post-graduation: Accelerate to 5-10/week
+- Blue AI interview scheduled (Founding Engineer Backend/Infra)
+
+**Artistic Practice**
+- Maintaining 30-year art career alongside tech work
+- Recent gallery show, active sales
+- Instagram: 1,160% growth, strong engagement
+- Operating elijah-sylar.com art business
 
 -----
 
-`#CreativeAI` `#GenerativeArt` `#ArtistTools` `#Python` `#React` `#PyTorch` `#AutonomousAI` `#CreativeCoding` `#Denver`
+## 🌐 Contact & Links
+
+**Email:** elijah.s.camp@gmail.com  
+**LinkedIn:** [linkedin.com/in/elijahsylar](https://linkedin.com/in/elijahsylar)  
+**Portfolio/Art:** [elijahsylar.com](https://elijahsylar.com)  
+**Aurora Research:** [elijahsylar.github.io/aurora_ai](https://elijahsylar.github.io/aurora_ai)  
+**GitHub:** [github.com/elijahsylar](https://github.com/elijahsylar)
+
+-----
+
+## 💭 How I Think About Technology
+
+Technology should:
+- **Work for real people**, not just in theory
+- **Be accessible** from day one, not bolted on
+- **Respect human autonomy**, especially in creative/personal domains
+- **Be maintainable**, because someone has to run it in production
+- **Be honest**, which means explainability matters in AI
+
+I've spent enough time with people who depend on technology working reliably and accessibly. That changes how you build.
+
+-----
+
+**Status:** 🎓 Final semester CS @ CU Denver | 🔬 Active AI Research | 🎨 Professional Artist | 💼 Actively Recruiting  
+**Location:** Denver, CO | **Relocating:** Hawaii, August 2026 | **Work:** Remote preferred
+
+`#HealthcareTech` `#BackendEngineering` `#AccessibilityEngineering` `#AIResearch` `#Python` `#React` `#PostgreSQL` `#AWS` `#Denver` `#CreativeCoding`
