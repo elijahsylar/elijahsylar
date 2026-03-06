@@ -45,7 +45,6 @@ I build production systems that work for real people, especially those with comp
 - **Framework**: Behavioral reinforcement learning (applying 7 years clinical AI knowledge)
 - Removed 600 lines of reward shaping → 15-25% performance improvement
 - **Key insight**: Natural contingency (immediate feedback) may suffice without external optimization
-- Currently being prepared for publication with faculty mentorship
 
 ### Full-Stack Development
 - Backend infrastructure (Node.js, Python, databases)
