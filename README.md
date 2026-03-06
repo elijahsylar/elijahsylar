@@ -55,7 +55,7 @@ I build production systems that work for real people, especially those with comp
 - Can architect systems end-to-end
 
 ### Artistic Practice
-- **30 years** creating visual art (professional since age 15)
+- **15+ years** creating visual art (professional since age 15)
 - Gallery exhibitions, recognized artist (Museum of Contemporary Art Houston)
 - Current: Selling original work, Instagram strategy yielding 70% non-follower reach
 - Brings serious creative sensibility to technical work
@@ -127,7 +127,7 @@ Graduating May 2026 | 3.2 GPA | Active research student
 
 **Background:**
 - 7 years behavioral intervention work (RBT-certified)
-- 30 years artistic practice
+- 15+years artistic practice
 - 4 years professional accessibility engineering
 - 18+ months production database administration
 - Full-stack development across multiple projects
