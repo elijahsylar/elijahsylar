@@ -10,7 +10,7 @@
 
 I build production systems that work for real people, especially those with complex needs. That comes from 7 years as a certified behavior analyst working with nonverbal autistic children, 18+ months running a production library system serving 200+ users, and now: designing the intersection of healthcare tech, responsible AI, and accessibility.
 
-**Current:** CS degree at CU Denver (graduating May 2026) + active research in emergent AI behavior + 30-year visual artist
+**Current:** CS degree at CU Denver (graduating May 2026) + active research in emergent AI behavior + 15+ year visual artist
 
 **Actively recruiting for:** Healthcare technology roles, accessibility engineering, backend infrastructure, AI systems design
 
@@ -127,7 +127,7 @@ Graduating May 2026 | 3.2 GPA | Active research student
 
 **Background:**
 - 7 years behavioral intervention work (RBT-certified)
-- 15+years artistic practice
+- 15+ years artistic practice
 - 4 years professional accessibility engineering
 - 18+ months production database administration
 - Full-stack development across multiple projects
@@ -183,9 +183,8 @@ That combination is rare. Companies hiring for healthcare tech specifically valu
 - Opportunity to combine healthcare domain expertise with technical depth
 
 **Timeline:**
-- Available immediately for interviews
+- Available immediately 
 - Graduating May 2026
-- 2 applications/week until graduation, accelerating post-graduation
 
 **Why hire me:**
 - You get someone who understands your domain (healthcare) *and* can architect systems
@@ -200,18 +199,12 @@ That combination is rare. Companies hiring for healthcare tech specifically valu
 
 **Aurora AI Research**
 - Documenting findings for publication
-- Preparing EURēCA! fellowship application
 - Exploring GPU-accelerated experimentation (college GPU access)
-- Summer: 8-week research fellowship to formalize white paper → publication
+- Summer: 8-week research to formalize white paper → publication
 
-**Job Search Strategy**
-- 2 applications weekly until May 2026 graduation
-- Focus: Healthcare tech, accessibility, backend infrastructure
-- Post-graduation: Accelerate to 5-10/week
-- Blue AI interview scheduled (Founding Engineer Backend/Infra)
 
 **Artistic Practice**
-- Maintaining 30-year art career alongside tech work
+- Maintaining 15+ year art career alongside tech work
 - Recent gallery show, active sales
 - Instagram: 1,160% growth, strong engagement
 - Operating elijah-sylar.com art business
