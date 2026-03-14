@@ -118,11 +118,6 @@ Multi-month development of autonomous creative system:
 **Computer Science** @ University of Colorado Denver  
 Graduating May 2026 | 3.2 GPA | Active research student
 
-**Professional Validation:**
-- ✅ Academic AI researchers (Professor Newell, Dr. Doug Williams) recognize Aurora as publication-worthy
-- ✅ Healthcare tech company (Blue AI) scheduling interview for founding engineer role ($150-200k)
-- ✅ Quantum computing company expressed hiring interest
-- ✅ EURēCA! Fellows program eligible (8-week funded research fellowship)
 
 **Background:**
 - 7 years behavioral intervention work (RBT-certified)
@@ -153,23 +148,6 @@ Graduating May 2026 | 3.2 GPA | Active research student
 - Database architecture (schema design, optimization, production support)
 - AI implementation (not research papers, actual running systems)
 
------
-
-## 🎨 Why This Mix Matters
-
-**Most backend engineers** can write code.  
-**You** understand healthcare systems *and* can write the backend.
-
-**Most AI researchers** work on papers.  
-**You** built a running AI system that learns across 300+ sessions.
-
-**Most developers** make accessible features as an afterthought.  
-**You** have 4 years of professional accessibility experience. You know what it means to build for people who actually need it.
-
-**Most CS students** build projects in isolation.  
-**You** maintained production systems serving 200+ real users.
-
-That combination is rare. Companies hiring for healthcare tech specifically value that.
 
 -----
 
@@ -185,12 +163,6 @@ That combination is rare. Companies hiring for healthcare tech specifically valu
 - Available immediately 
 - Graduating May 2026
 
-**Why hire me:**
-- You get someone who understands your domain (healthcare) *and* can architect systems
-- Production systems experience means I don't need hand-holding
-- AI expertise is practical, not theoretical
-- Accessibility knowledge actually embedded in how I think
-- Finishing degree while pursuing published research (demonstrates commitment + capability)
 
 -----
 
