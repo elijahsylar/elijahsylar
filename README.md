@@ -56,8 +56,6 @@ I build production systems that work for real people, especially those with comp
 
 **Aurora** is an autonomous AI artist exploring creative behavior through behavioral learning, without explicit reward shaping.
 
-[Full Research Documentation →](https://elijahsylar.github.io/aurora_ai/)
-
 **Key Findings:**
 - Removing prescriptive constraints improved output 15-25%
 - Creative preferences emerged without predefined aesthetic rewards
@@ -146,7 +144,6 @@ Graduated August 2025 | 3.2 GPA
 ## 🌐 Contact & Links
 
 **LinkedIn:** [linkedin.com/in/elijah-camp-106708282](https://linkedin.com/in/elijah-camp-106708282)  
-**Aurora Research:** [elijahsylar.github.io/aurora_ai](https://elijahsylar.github.io/aurora_ai)  
 **GitHub:** [github.com/elijahsylar](https://github.com/elijahsylar)
 
 -----
