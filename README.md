@@ -15,10 +15,12 @@ Previously: production engineering and database administration. Sole DBA for a K
 
 ## Research: Aurora
 
-Aurora gives locally run language models a canvas, a small command vocabulary, and no reward signal, then records everything they do. The question is what a model produces when nothing tells it what to make, and how that changes when it can see the results of its own actions.
+Aurora gives language models a canvas, a small command vocabulary, and no reward signal, then records what they produce. The question is what a model produces when nothing tells it what to make, and how that changes when it can see the results of its own actions.
 
-- 3,000+ logged sessions across open-weight models (Llama, Mistral, Qwen, Phi, DeepSeek, Gemma, Kimi-VL), run on consumer hardware via llama-cpp-python
-- Every thought, action, and canvas state stored in MySQL, with each session's settings and code version recorded for reproducibility
+Research page: [Aurora pilot report and audit](https://elijahsylar.github.io/aurora_ai/) (March-June 2026 pilot, with the SQL behind every number).
+
+- 3,000+ logged sessions across 25 open-weight models (Llama, Mistral, Qwen, Phi, DeepSeek, Gemma) run on consumer hardware via llama-cpp-python, plus one model via API
+- Pilot (March-June 2026): each model's written output, painting titles and end-of-session canvas coverage stored in MySQL. Drawing actions were not logged and sessions did not record their code version; the current protocol records each session's code version and full settings
 - Current work: vision-language models that see the actual canvas before and after their own commands, tested one model at a time until the setup is stable
 - Design principle carried over from behavior analysis: natural contingency (the model perceives the consequences of its actions) instead of reward shaping
 
