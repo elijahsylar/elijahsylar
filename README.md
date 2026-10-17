@@ -41,7 +41,7 @@ I build production systems that work for real people, especially those with comp
 - **Aurora**: Autonomous AI artist system investigating emergent creativity
 - Research validated by academic AI researchers (publication-level work)
 - **Framework**: Behavioral reinforcement learning (applying 7 years clinical AI knowledge)
-- Removed 600 lines of reward shaping → 15-25% performance improvement
+- Removed 600 lines of reward shaping
 - **Key insight**: Natural contingency (immediate feedback) may suffice without external optimization
 
 ### Full-Stack Development
@@ -57,7 +57,7 @@ I build production systems that work for real people, especially those with comp
 **Aurora** is an autonomous AI artist exploring creative behavior through behavioral learning, without explicit reward shaping.
 
 **Key Findings:**
-- Removing prescriptive constraints improved output 15-25%
+- Removed prescriptive constraints
 - Creative preferences emerged without predefined aesthetic rewards
 - Natural contingency (seeing own output) drives behavior better than external optimization
 - System remains interpretable (can observe reasoning via LLM)
