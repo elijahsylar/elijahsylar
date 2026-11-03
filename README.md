@@ -26,11 +26,9 @@ Research page: [Aurora pilot report and audit](https://elijahsylar.github.io/aur
 
 ## Personal projects
 
-These repos are private. I'm happy to walk through any of them.
-
-- **PHT** - a habit tracker with a TypeScript API and a vanilla TypeScript frontend built as a desktop-style UI with a snap-grid window manager. Versioned releases with one-command rollback, integration tests against a real MySQL instance, revocable sessions, single-VPS deploy.
-- **LumpyLP** - an indexer for Creative Commons and public-domain music. 645,000+ tracks ingested from 11+ sources through per-source resolvers, a license-canonicalization quality gate, dead-link sweeps, and geocoded artist locations. Currently paused.
-- **LLM Lab** - a local workbench for inference and LoRA fine-tuning on consumer hardware.
+- **[PHT](https://github.com/elijahsylar/pht)** - a habit tracker with a TypeScript API and a vanilla TypeScript frontend built as a desktop-style UI with a snap-grid window manager. Versioned releases with one-command rollback, integration tests against a real MySQL instance, revocable sessions, single-VPS deploy.
+- **[LumpyLP](https://github.com/elijahsylar/lumpylp)** - an indexer for Creative Commons and public-domain music. 645,000+ tracks ingested through 18 per-source resolvers, a license-canonicalization quality gate, dead-link sweeps, and geocoded artist locations. Currently paused.
+- **[LLM Lab](https://github.com/elijahsylar/llm-lab)** - a local workbench for inference and LoRA fine-tuning on consumer hardware.
 
 ## How I work
 
