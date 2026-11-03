@@ -29,6 +29,15 @@ Research page: [Aurora pilot report and audit](https://elijahsylar.github.io/aur
 - **[PHT](https://github.com/elijahsylar/pht)** - a habit tracker with a TypeScript API and a vanilla TypeScript frontend built as a desktop-style UI with a snap-grid window manager. Versioned releases with one-command rollback, integration tests against a real MySQL instance, revocable sessions, single-VPS deploy.
 - **[LumpyLP](https://github.com/elijahsylar/lumpylp)** - an indexer for Creative Commons and public-domain music. 645,000+ tracks ingested through 18 per-source resolvers, a license-canonicalization quality gate, dead-link sweeps, and geocoded artist locations. Currently paused.
 - **[LLM Lab](https://github.com/elijahsylar/llm-lab)** - a local workbench for inference and LoRA fine-tuning on consumer hardware.
+- **[D.A.T.I.](https://github.com/elijahsylar/dati)** - a real-time multiplayer trivia platform for bar trivia nights, built as a course project. Socket.io game rooms with server-authoritative timing and snapshot recovery, QR join codes, a TV display, and a one-search lifeline.
+- **[SelfCheckout rice](https://github.com/elijahsylar/rice-selfcheckout)** - a phosphor-green CRT theme for GNOME on X11: one palette across terminal, editor, browsers and GTK, a conky/Lua pixel face that changes with the time of day, and an OpenGL CRT overlay in C.
+
+### Accessibility
+
+Accessibility tools informed by 7 years as an RBT working with AAC systems for nonverbal clients.
+
+- **[HYPNOTIC](https://github.com/elijahsylar/hypnotic)** - a fullscreen, low-latency audio visualizer for focused listening, with 7 FFT-driven effects and optional single-keyword display from offline speech recognition.
+- **[VisionVocabularyAAC](https://github.com/elijahsylar/vision-vocabulary-aac)** - a browser prototype of an AAC board that adds buttons for objects the camera sees (on-device TensorFlow.js, COCO-SSD) next to fixed-position core words.
 
 ## How I work
 
