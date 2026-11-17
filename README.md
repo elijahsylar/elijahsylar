@@ -1,6 +1,6 @@
 # Elijah Sylar Camp
 
-I work across the full stack, and my strongest area is the frontend: application architecture, interface design and accessibility. Before software I spent seven years as a behavior technician delivering ABA therapy. The work has the same shape in both fields: observe behavior, collect data, find the pattern, change the system.
+I work across the full stack, and my strongest area is the frontend: application architecture, interface design and accessibility. Before software I spent seven years as a Registered Behavior Technician delivering ABA therapy. The work has the same shape in both fields: observe behavior, collect data, find the pattern, change the system.
 
 ## Work
 
@@ -9,7 +9,7 @@ I work across the full stack, and my strongest area is the frontend: application
 - **Stack:** TypeScript, React 19, Next.js 16, Node, Vitest, Azure (Cosmos DB, Entra ID, Container Apps), GitHub Actions, Azure DevOps, Terraform
 - **Practice:** test-driven development with Vitest; every pull request records the original plan and the decisions made
 
-Previously: built and solely administered a production Koha library system at a university design and engineering center between August 2024 and October 2025, with custom MySQL triggers, stored procedures and automated workflows; it stayed in production after handover.
+Previously: built and solely administered a production Koha library system at a university design and engineering center between August 2024 and October 2025, serving 200+ users at 99.9% uptime, with custom MySQL triggers, stored procedures and automated workflows; it stayed in production after handover.
 
 ## Independent project: Aurora
 
@@ -29,26 +29,26 @@ Aurora is an independent project that gives open-weight language models a canvas
 
 ### Accessibility
 
-Accessibility tools informed by seven years as a behavior technician, working with AAC systems for nonverbal clients.
+Accessibility tools informed by seven years as a Registered Behavior Technician, working with AAC systems for nonverbal clients.
 
 - **[HYPNOTIC](https://github.com/elijahsylar/hypnotic)** - a fullscreen, low-latency audio visualizer for focused listening, with 7 FFT-driven effects and optional single-keyword display from offline speech recognition.
 - **[VisionVocabularyAAC](https://github.com/elijahsylar/vision-vocabulary-aac)** - a browser prototype of an AAC board that adds buttons for objects the camera sees (on-device TensorFlow.js, COCO-SSD) next to fixed-position core words.
 
 ## How I work
 
-AI-assisted development with Claude Code is my main workflow: a planning agent, a coding agent and a separate review agent, with gated changes and written decisions.
+AI-assisted development has been my main workflow for about four years. Its current form, with Claude Code, is a planning agent, a coding agent and a separate review agent, with gated changes and written decisions.
 
 ## Background
 
 - B.A. Computer Science, University of Colorado Denver (2026)
-- Seven years as a behavior technician delivering ABA therapy (August 2015 to August 2022)
+- Seven years as a Registered Behavior Technician (RBT) delivering ABA therapy (August 2015 to August 2022)
 - Accessibility work since 2023, with WCAG applied in production work
 
 ## Stack
 
 **Languages:** TypeScript, JavaScript, Python, SQL, Bash
-**Data:** MySQL, SQLite, Cosmos DB
-**Infrastructure:** Azure, Terraform, Docker, Linux, nginx
+**Data:** MySQL, PostgreSQL, MongoDB, SQLite, Cosmos DB
+**Infrastructure:** Azure, Terraform, Docker, Kubernetes, Linux, nginx
 
 ## Contact
 
