@@ -1,59 +1,54 @@
-# Elijah Camp
+# Elijah Sylar Camp
 
-Software engineer working full stack on a healthcare AI application. Before software I spent seven years as a Registered Behavior Technician. The work has the same shape in both fields: observe behavior, collect data, find the pattern, change the system. I apply that to production software and to Aurora, an ongoing study of what language models produce when they are given the opportunity to create.
+I work across the full stack, and my strongest area is the frontend: application architecture, interface design and accessibility. Before software I spent seven years as a behavior technician delivering ABA therapy. The work has the same shape in both fields: observe behavior, collect data, find the pattern, change the system.
 
 ## Work
 
-Full-stack development on a healthcare AI application in care management (remote).
+**Software Application Development Engineer** (remote). With the same team since May 2026: intern, then contract, then full time from October 2026. I own features end to end across the stack.
 
-- **Frontend/app:** Next.js (App Router, server components), React, TypeScript, Tailwind, shadcn/Radix
-- **Backend/cloud:** Node, Azure (Cosmos DB, Blob Storage, Entra ID, Container Apps, Azure OpenAI via Vercel AI SDK)
-- **Infra/delivery:** Terraform, GitHub Actions, Azure DevOps
-- **Practice:** test-driven development with Vitest; every PR records the original plan and the decisions made
+- **Stack:** TypeScript, React 19, Next.js 16, Node, Vitest, Azure (Cosmos DB, Entra ID, Container Apps), GitHub Actions, Azure DevOps, Terraform
+- **Practice:** test-driven development with Vitest; every pull request records the original plan and the decisions made
 
-Previously: production engineering and database administration. Sole DBA for a Koha library system serving 200+ users at 99.9% uptime over 18+ months, with custom MySQL triggers, stored procedures, and automated workflows.
+Previously: built and solely administered a production Koha library system at a university design and engineering center between August 2024 and October 2025, with custom MySQL triggers, stored procedures and automated workflows; it stayed in production after handover.
 
-## Research: Aurora
+## Independent project: Aurora
 
-Aurora gives language models a canvas, a small command vocabulary, and no reward signal, then records what they produce. The question is what a model produces when nothing tells it what to make, and how that changes when it can see the results of its own actions.
+Aurora is an independent project that gives open-weight language models a canvas and a small command set, runs long unattended sessions, and records what they produce. It has been in development since May 2025.
 
-Research page: [Aurora pilot report and audit](https://elijahsylar.github.io/aurora_ai/) (March-June 2026 pilot, with the SQL behind every number).
-
-- 3,000+ logged sessions across 25 open-weight models (Llama, Mistral, Qwen, Phi, DeepSeek, Gemma) run on consumer hardware via llama-cpp-python, plus one model via API
-- Pilot (March-June 2026): each model's written output, painting titles and end-of-session canvas coverage stored in MySQL. Drawing actions were not logged and sessions did not record their code version; the current protocol records each session's code version and full settings
-- Current work: vision-language models that see the actual canvas before and after their own commands, tested one model at a time until the setup is stable
-- Design principle carried over from behavior analysis: natural contingency (the model perceives the consequences of its actions) instead of reward shaping
+- Pilot: 3,060 sessions from 26 models, 7 March to 14 June 2026
+- The pilot stored each model's written output, painting titles and canvas coverage. Full action logging began with the October 2026 rebuild.
+- Research page: [Aurora pilot report and audit](https://elijahsylar.github.io/aurora_ai/), with the SQL behind every number
 
 ## Personal projects
 
 - **[PHT](https://github.com/elijahsylar/pht)** - a habit tracker with a TypeScript API and a vanilla TypeScript frontend built as a desktop-style UI with a snap-grid window manager. Versioned releases with one-command rollback, integration tests against a real MySQL instance, revocable sessions, single-VPS deploy.
-- **[LumpyLP](https://github.com/elijahsylar/lumpylp)** - an indexer for Creative Commons and public-domain music. 645,000+ tracks ingested through 18 per-source resolvers, a license-canonicalization quality gate, dead-link sweeps, and geocoded artist locations. Currently paused.
+- **[LumpyLP](https://github.com/elijahsylar/lumpylp)** - a community-ranked catalog of music that is free to stream: Creative Commons and public-domain recordings, recordings streamed under platform terms (Audius), and live recordings shared under band taping policies. Resolvers for 18 sources, five of them Internet Archive collections, behind one license gate. 645,161 tracks from 15 of those sources as of August 2026. Currently paused.
 - **[LLM Lab](https://github.com/elijahsylar/llm-lab)** - a local workbench for inference and LoRA fine-tuning on consumer hardware.
 - **[D.A.T.I.](https://github.com/elijahsylar/dati)** - a real-time multiplayer trivia platform for bar trivia nights, built as a course project. Socket.io game rooms with server-authoritative timing and snapshot recovery, QR join codes, a TV display, and a one-search lifeline.
 - **[SelfCheckout rice](https://github.com/elijahsylar/rice-selfcheckout)** - a phosphor-green CRT theme for GNOME on X11: one palette across terminal, editor, browsers and GTK, a conky/Lua pixel face that changes with the time of day, and an OpenGL CRT overlay in C.
 
 ### Accessibility
 
-Accessibility tools informed by 7 years as an RBT working with AAC systems for nonverbal clients.
+Accessibility tools informed by seven years as a behavior technician, working with AAC systems for nonverbal clients.
 
 - **[HYPNOTIC](https://github.com/elijahsylar/hypnotic)** - a fullscreen, low-latency audio visualizer for focused listening, with 7 FFT-driven effects and optional single-keyword display from offline speech recognition.
 - **[VisionVocabularyAAC](https://github.com/elijahsylar/vision-vocabulary-aac)** - a browser prototype of an AAC board that adds buttons for objects the camera sees (on-device TensorFlow.js, COCO-SSD) next to fixed-position core words.
 
 ## How I work
 
-AI-assisted development has been my primary workflow for about three years: a planning agent, a coding agent, and a separate review agent that has not seen the work. Changes are gated, and decisions are written down.
+AI-assisted development with Claude Code is my main workflow: a planning agent, a coding agent and a separate review agent, with gated changes and written decisions.
 
 ## Background
 
 - B.A. Computer Science, University of Colorado Denver (2026)
-- 7 years as an RBT: ABA, AAC systems for nonverbal clients, behavioral data collection and analysis
-- 4 years building accessible systems, with WCAG applied in production work
+- Seven years as a behavior technician delivering ABA therapy (August 2015 to August 2022)
+- Accessibility work since 2023, with WCAG applied in production work
 
 ## Stack
 
 **Languages:** TypeScript, JavaScript, Python, SQL, Bash
-**Data:** MySQL, PostgreSQL, MongoDB, SQLite, Cosmos DB
-**Infrastructure:** Azure, Terraform, Docker, Kubernetes, Linux, nginx
+**Data:** MySQL, SQLite, Cosmos DB
+**Infrastructure:** Azure, Terraform, Docker, Linux, nginx
 
 ## Contact
 
